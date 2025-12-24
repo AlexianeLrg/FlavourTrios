@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-CSV_PATH = "/content/drive/MyDrive/TestAppliThesaurus.csv"
+CSV_PATH = "TestAppliThesaurus.csv"
 
 # ---------- Helpers ----------
 def norm_hex(x):
